@@ -1,0 +1,22 @@
+
+.caixa-pessoa {
+  border: 2px solid #4a90d9;
+  border-radius: 14px;
+  padding: 18px;
+  margin: 15px 0;
+  background: #f0f7ff;
+}
+
+.titulo-produtos {
+  color: #2f855a;
+  margin: 30px 0 10px 0;
+}
+
+
+.caixa-produto {
+  border: 2px solid #34a853;
+  border-radius: 14px;
+  padding: 18px;
+  margin: 12px 0;
+  background: #f0fff4;
+}
